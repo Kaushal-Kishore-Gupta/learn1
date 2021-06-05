@@ -1,0 +1,27 @@
+ h1{
+    color:orange;
+    background-color:slategray;
+    font-size:20px;
+    text-decoration:underline;
+    font-family:Arial;
+    text-align:center;
+}
+p{
+    color:slategray;
+    line-height:30px;
+    letter-spacing:2px;
+    column-count:3;
+    column-gap:5px;
+}
+  ul{ 
+     /* border-width:3px;
+    border-style:solid;
+    border-color:crimson;  */
+    /* border:3px solid crimson; */
+    border-left:3px dotted crimson;
+ } 
+ li{
+     list-style-type:square;
+     /* text-shadow:2px 2px yellow; */
+     text-shadow:2px 2px #723f65;
+ } 

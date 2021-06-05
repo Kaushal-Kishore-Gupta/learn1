@@ -1,0 +1,27 @@
+body{
+    background-color: #835b5b;
+    padding-left: 25px;
+}
+
+.jin{
+    color:#73beb4;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 50px;
+}
+#content{
+    display: table-cell;
+}
+
+#inside{
+    display:table-cell;
+    vertical-align:sub;
+}
+a[href]{
+    padding-top: 40px;
+    color: #3a1515;
+    text-transform:uppercase;
+}
+.navbar{
+    padding-top: 40px;
+    
+}
